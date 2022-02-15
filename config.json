@@ -1,0 +1,16 @@
+{
+  "environment": "live",
+  "debug": false,
+  "Captcha": {
+    "secret": "6LdLV6EaAAAAAOrIUSw2q9P7iB6BCc1MLg4Ke4MO"
+  },
+  "Ethereum": {
+    "etherToTransfer": 15,
+    "gasLimit": "0x10b0c",
+    "live": {
+      "rpc": "  https://testnet.dexit.network",
+      "account": "0x962558e1797d2ab364f91E1A041c1AF4EB92021F",
+      "privateKey": "10a56bcaff17b4a5022886ab9dc4f7bd14fc6a17fdb67e2e73b94b786fe2272e"
+    }
+  }
+}
